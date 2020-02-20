@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="APP TEST">
+    
+	<test name="Palindrome Test">
+        <classes>
+            <class name="SeleniumTest.UnitTest"/>
+        </classes>
+    </test>
+	<test name="Web Test">
+        <classes>
+            <class name="SeleniumTest.WebTest"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7075" started-at="2020-02-20T08:08:52 NPT" finished-at="2020-02-20T08:08:59 NPT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7075" started-at="2020-02-20T08:08:52 NPT" finished-at="2020-02-20T08:08:59 NPT">
+      <class name="TestAutomation.SeleniumTest.WebTest">
+        <test-method status="PASS" signature="InitializeBrowser()[pri:0, instance:TestAutomation.SeleniumTest.WebTest@5bc79255]" name="InitializeBrowser" is-config="true" duration-ms="5476" started-at="2020-02-20T08:08:52 NPT" finished-at="2020-02-20T08:08:57 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InitializeBrowser -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:TestAutomation.SeleniumTest.WebTest@5bc79255]" name="Test1" duration-ms="806" started-at="2020-02-20T08:08:58 NPT" finished-at="2020-02-20T08:08:58 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="TerminateBrowser()[pri:0, instance:TestAutomation.SeleniumTest.WebTest@5bc79255]" name="TerminateBrowser" is-config="true" duration-ms="725" started-at="2020-02-20T08:08:58 NPT" finished-at="2020-02-20T08:08:59 NPT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TerminateBrowser -->
+      </class> <!-- TestAutomation.SeleniumTest.WebTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
